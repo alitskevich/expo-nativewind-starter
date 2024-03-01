@@ -1,8 +1,8 @@
-#Bootstrap project.
+# Bootstrap project.
 
 ## Stack
 
-- React Native, NativeWind, Tailwind, TypeScript
+- Expo, React Native, ReactJS, NativeWind, Tailwind, TypeScript
 
 ## Readings
 
